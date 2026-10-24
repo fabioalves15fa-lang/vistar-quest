@@ -4,7 +4,12 @@ import os
 import random
 import pandas as pd
 import streamlit as st
-from streamlit_extras.let_it_rain import rain
+try:
+    from streamlit_extras.let_it_rain import rain
+except ImportError:
+    # Fallback de segurança para o app não quebrar se a biblioteca falhar no servidor
+    def rain(*args, **kwargs):
+        pass
 from componentes.css import carregar_css
 
 CONFIG_FILE = "config.json"
