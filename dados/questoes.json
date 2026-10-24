@@ -1,0 +1,832 @@
+[
+  {
+    "id": "mat_001",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA01 - Valor Posicional e Decomposição",
+    "dificuldade": 1,
+    "pergunta": "No número 4.785, qual é o valor posicional do algarismo 7?",
+    "alternativas": ["7", "70", "700", "7.000"],
+    "resposta": "700",
+    "xp": 10
+  },
+  {
+    "id": "mat_002",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA01 - Valor Posicional e Decomposição",
+    "dificuldade": 1,
+    "pergunta": "Como podemos decompor o número 3.542?",
+    "alternativas": [
+      "3.000 + 500 + 40 + 2",
+      "300 + 50 + 4 + 2",
+      "30.000 + 500 + 40 + 2",
+      "3.000 + 50 + 40 + 2"
+    ],
+    "resposta": "3.000 + 500 + 40 + 2",
+    "xp": 10
+  },
+  {
+    "id": "mat_003",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA01 - Valor Posicional e Decomposição",
+    "dificuldade": 2,
+    "pergunta": "No número 83.214, qual é o valor posicional do algarismo 3?",
+    "alternativas": ["30", "300", "3.000", "30.000"],
+    "resposta": "3.000",
+    "xp": 15
+  },
+  {
+    "id": "mat_004",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA01 - Valor Posicional e Decomposição",
+    "dificuldade": 2,
+    "pergunta": "Qual é a decomposição correta do número 7.091?",
+    "alternativas": [
+      "7.000 + 90 + 1",
+      "700 + 90 + 1",
+      "7.000 + 900 + 1",
+      "70.000 + 90 + 1"
+    ],
+    "resposta": "7.000 + 90 + 1",
+    "xp": 15
+  },
+  {
+    "id": "mat_005",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA02 - Números Decimais",
+    "dificuldade": 2,
+    "pergunta": "Qual dos números decimais a seguir é o MAIOR?",
+    "alternativas": ["0,45", "0,5", "0,405", "0,09"],
+    "resposta": "0,5",
+    "xp": 20
+  },
+  {
+    "id": "mat_006",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA02 - Números Decimais",
+    "dificuldade": 1,
+    "pergunta": "Qual dos números decimais a seguir é o MENOR?",
+    "alternativas": ["0,15", "0,05", "0,5", "0,51"],
+    "resposta": "0,05",
+    "xp": 10
+  },
+  {
+    "id": "mat_007",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA02 - Números Decimais",
+    "dificuldade": 2,
+    "pergunta": "Como se lê o número decimal 0,75?",
+    "alternativas": ["Sete e cinco décimos", "Setenta e cinco décimos", "Setenta e cinco centésimos", "Setenta e cinco milésimos"],
+    "resposta": "Setenta e cinco centésimos",
+    "xp": 20
+  },
+  {
+    "id": "mat_008",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA02 - Números Decimais",
+    "dificuldade": 2,
+    "pergunta": "Qual é o resultado da adição entre 1,5 e 0,3?",
+    "alternativas": ["1,8", "4,5", "1,53", "0,18"],
+    "resposta": "1,8",
+    "xp": 20
+  },
+  {
+    "id": "mat_009",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA03 - Representação de Frações",
+    "dificuldade": 2,
+    "pergunta": "Uma pizza foi dividida em 8 fatias iguais e João comeu 3 fatias. Qual fração representa a parte que sobrou da pizza?",
+    "alternativas": ["3/8", "5/8", "3/5", "8/3"],
+    "resposta": "5/8",
+    "xp": 20
+  },
+  {
+    "id": "mat_010",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA03 - Representação de Frações",
+    "dificuldade": 2,
+    "pergunta": "Numa caixa há 30 chocolates. Se Marina comeu 2/5 dessa quantidade, quantos chocolates ela comeu?",
+    "alternativas": ["6", "10", "12", "15"],
+    "resposta": "12",
+    "xp": 25
+  },
+  {
+    "id": "mat_011",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA03 - Representação de Frações",
+    "dificuldade": 2,
+    "pergunta": "Qual das frações a seguir é equivalente a 1/2?",
+    "alternativas": ["2/3", "2/4", "3/5", "4/6"],
+    "resposta": "2/4",
+    "xp": 20
+  },
+  {
+    "id": "mat_012",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA03 - Representação de Frações",
+    "dificuldade": 3,
+    "pergunta": "Para encontrar uma fração equivalente a 3/5, multiplicamos o numerador e o denominador por 3. Qual fração obtemos?",
+    "alternativas": ["6/5", "9/15", "6/10", "9/5"],
+    "resposta": "9/15",
+    "xp": 25
+  },
+  {
+    "id": "mat_013",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA04 - Simplificação de Frações",
+    "dificuldade": 2,
+    "pergunta": "Simplificando a fração 4/8 ao máximo, qual fração irredutível encontramos?",
+    "alternativas": ["1/2", "2/4", "1/4", "3/4"],
+    "resposta": "1/2",
+    "xp": 20
+  },
+  {
+    "id": "mat_014",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA04 - Simplificação de Frações",
+    "dificuldade": 2,
+    "pergunta": "Simplificando a fração 6/9 ao máximo, qual fração irredutível encontramos?",
+    "alternativas": ["1/3", "2/3", "3/4", "3/6"],
+    "resposta": "2/3",
+    "xp": 20
+  },
+  {
+    "id": "mat_015",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA04 - Simplificação de Frações",
+    "dificuldade": 2,
+    "pergunta": "Qual é a fração irredutível equivalente a 10/20?",
+    "alternativas": ["2/4", "5/10", "1/2", "1/5"],
+    "resposta": "1/2",
+    "xp": 20
+  },
+  {
+    "id": "mat_016",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA04 - Simplificação de Frações",
+    "dificuldade": 3,
+    "pergunta": "Simplificando a fração 8/12 ao máximo, qual encontramos?",
+    "alternativas": ["4/6", "2/3", "3/4", "1/2"],
+    "resposta": "2/3",
+    "xp": 25
+  },
+  {
+    "id": "mat_017",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA06 - Porcentagem",
+    "dificuldade": 2,
+    "pergunta": "Uma loja está dando 25% de desconto em uma mochila que custa R$ 80,00. Qual o valor do desconto?",
+    "alternativas": ["R$ 15,00", "R$ 20,00", "R$ 25,00", "R$ 60,00"],
+    "resposta": "R$ 20,00",
+    "xp": 25
+  },
+  {
+    "id": "mat_018",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA06 - Porcentagem",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 50% de 160?",
+    "alternativas": ["40", "60", "80", "100"],
+    "resposta": "80",
+    "xp": 20
+  },
+  {
+    "id": "mat_019",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA06 - Porcentagem",
+    "dificuldade": 2,
+    "pergunta": "Em uma turma de 40 alunos, 10 faltaram. Qual a porcentagem de faltas?",
+    "alternativas": ["10%", "20%", "25%", "50%"],
+    "resposta": "25%",
+    "xp": 25
+  },
+  {
+    "id": "mat_020",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA06 - Porcentagem",
+    "dificuldade": 1,
+    "pergunta": "Quanto é 10% de R$ 200,00?",
+    "alternativas": ["R$ 10,00", "R$ 20,00", "R$ 50,00", "R$ 100,00"],
+    "resposta": "R$ 20,00",
+    "xp": 15
+  },
+  {
+    "id": "mat_021",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA07 - Operações (Multiplicação e Divisão)",
+    "dificuldade": 1,
+    "pergunta": "Um pacote tem 24 lápis de cor. Quantos lápis haverá em 5 pacotes iguais?",
+    "alternativas": ["100", "120", "124", "140"],
+    "resposta": "120",
+    "xp": 15
+  },
+  {
+    "id": "mat_022",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA07 - Operações (Multiplicação e Divisão)",
+    "dificuldade": 2,
+    "pergunta": "Uma professora quer distribuir 144 balas igualmente entre 6 turmas. Quantas balas cada turma receberá?",
+    "alternativas": ["20", "22", "24", "26"],
+    "resposta": "24",
+    "xp": 20
+  },
+  {
+    "id": "mat_023",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA07 - Operações (Multiplicação e Divisão)",
+    "dificuldade": 2,
+    "pergunta": "Uma fábrica produziu 156 caixas em 4 dias de forma igual. Quantas caixas foram produzidas por dia?",
+    "alternativas": ["35", "38", "39", "41"],
+    "resposta": "39",
+    "xp": 20
+  },
+  {
+    "id": "mat_024",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA07 - Operações (Multiplicação e Divisão)",
+    "dificuldade": 2,
+    "pergunta": "Um teatro tem 12 fileiras com 15 cadeiras cada. Quantas cadeiras há no total?",
+    "alternativas": ["150", "160", "180", "200"],
+    "resposta": "180",
+    "xp": 20
+  },
+  {
+    "id": "mat_025",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA19 - Grandezas e Medidas (Sistema Monetário, Tempo e Massa)",
+    "dificuldade": 1,
+    "pergunta": "Lucas comprou um livro por R$ 27,50 e pagou com uma nota de R$ 50,00. Quanto ele recebeu de troco?",
+    "alternativas": ["R$ 22,50", "R$ 23,50", "R$ 22,00", "R$ 32,50"],
+    "resposta": "R$ 22,50",
+    "xp": 15
+  },
+  {
+    "id": "mat_026",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA19 - Grandezas e Medidas (Sistema Monetário, Tempo e Massa)",
+    "dificuldade": 2,
+    "pergunta": "Uma aula de robótica começou às 14h30min e durou 1 hora e 45 minutos. A que horas a aula terminou?",
+    "alternativas": ["15h45min", "16h15min", "16h30min", "16h00min"],
+    "resposta": "16h15min",
+    "xp": 25
+  },
+  {
+    "id": "mat_027",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA19 - Grandezas e Medidas (Sistema Monetário, Tempo e Massa)",
+    "dificuldade": 2,
+    "pergunta": "Um pacote de arroz pesa 2,5 kg e um pacote de feijão pesa 1.500 gramas. Qual é o peso total dos dois pacotes em quilogramas?",
+    "alternativas": ["3,0 kg", "3,5 kg", "4,0 kg", "4,5 kg"],
+    "resposta": "4,0 kg",
+    "xp": 25
+  },
+  {
+    "id": "mat_028",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA19 - Grandezas e Medidas (Sistema Monetário, Tempo e Massa)",
+    "dificuldade": 2,
+    "pergunta": "Quantos minutos há exatamente em 2 horas e meia?",
+    "alternativas": ["120 minutos", "130 minutos", "150 minutos", "180 minutos"],
+    "resposta": "150 minutos",
+    "xp": 20
+  },
+  {
+    "id": "mat_029",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA20 - Perímetro",
+    "dificuldade": 2,
+    "pergunta": "Um campo de futebol retangular mede 10 metros de largura e 25 metros de comprimento. Qual é o perímetro desse campo?",
+    "alternativas": ["35 metros", "70 metros", "250 metros", "50 metros"],
+    "resposta": "70 metros",
+    "xp": 20
+  },
+  {
+    "id": "mat_030",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA20 - Perímetro",
+    "dificuldade": 1,
+    "pergunta": "Qual é o perímetro de um quadrado cujos lados medem 12 cm cada?",
+    "alternativas": ["24 cm", "36 cm", "48 cm", "144 cm"],
+    "resposta": "48 cm",
+    "xp": 15
+  },
+  {
+    "id": "mat_031",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA20 - Perímetro",
+    "dificuldade": 2,
+    "pergunta": "Uma praça triangular tem lados medindo 15m, 20m e 25m. Qual é o perímetro dessa praça?",
+    "alternativas": ["50 metros", "55 metros", "60 metros", "75 metros"],
+    "resposta": "60 metros",
+    "xp": 20
+  },
+  {
+    "id": "mat_032",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA20 - Perímetro",
+    "dificuldade": 2,
+    "pergunta": "Um terreno retangular mede 8m de frente por 12m de fundo. Qual o seu perímetro?",
+    "alternativas": ["20 metros", "40 metros", "96 metros", "48 metros"],
+    "resposta": "40 metros",
+    "xp": 20
+  },
+  {
+    "id": "mat_033",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA21 - Área",
+    "dificuldade": 3,
+    "pergunta": "Dona Maria quer colocar piso retangular em uma sala que mede 6 metros de comprimento por 4 metros de largura. Qual é a área dessa sala?",
+    "alternativas": ["20 m²", "24 m²", "10 m²", "30 m²"],
+    "resposta": "24 m²",
+    "xp": 30
+  },
+  {
+    "id": "mat_034",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA21 - Área",
+    "dificuldade": 2,
+    "pergunta": "Qual é a área de um quadrado que possui 5 cm de lado?",
+    "alternativas": ["10 cm²", "15 cm²", "20 cm²", "25 cm²"],
+    "resposta": "25 cm²",
+    "xp": 20
+  },
+  {
+    "id": "mat_035",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA21 - Área",
+    "dificuldade": 2,
+    "pergunta": "Um jardim retangular tem 9 metros de comprimento e 3 metros de largura. Qual é a área desse jardim?",
+    "alternativas": ["12 m²", "24 m²", "27 m²", "36 m²"],
+    "resposta": "27 m²",
+    "xp": 20
+  },
+  {
+    "id": "mat_036",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA21 - Área",
+    "dificuldade": 3,
+    "pergunta": "Calcule a área de uma cartolina retangular que mede 50 cm de comprimento por 40 cm de largura.",
+    "alternativas": ["180 cm²", "900 cm²", "2.000 cm²", "200 cm²"],
+    "resposta": "2.000 cm²",
+    "xp": 25
+  },
+  {
+    "id": "mat_037",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA23 - Noções de Probabilidade",
+    "dificuldade": 1,
+    "pergunta": "Mariana vai jogar um dado comum de 6 faces (numeradas de 1 a 6). Qual é a classificação do evento 'sair um número menor do que 7'?",
+    "alternativas": ["Impossível", "Pouco provável", "Muito provável", "Certo"],
+    "resposta": "Certo",
+    "xp": 10
+  },
+  {
+    "id": "mat_038",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA23 - Noções de Probabilidade",
+    "dificuldade": 2,
+    "pergunta": "Em uma caixa opaca, há 3 bolas azuis, 3 vermelhas e 3 amarelas do mesmo tamanho. Se Pedro retirar uma bola sem olhar, qual é a chance de sair uma bola azul?",
+    "alternativas": ["Impossível", "Igualmente provável (1 em 3)", "Certo", "Menor chance que as outras"],
+    "resposta": "Igualmente provável (1 em 3)",
+    "xp": 20
+  },
+  {
+    "id": "mat_039",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA23 - Noções de Probabilidade",
+    "dificuldade": 2,
+    "pergunta": "Ao lançar uma moeda honesta para o alto, qual é a probabilidade de cair 'Cara'?",
+    "alternativas": ["1 em 4 (25%)", "1 em 3 (33%)", "1 em 2 (50%)", "2 em 2 (100%)"],
+    "resposta": "1 em 2 (50%)",
+    "xp": 20
+  },
+  {
+    "id": "mat_040",
+    "disciplina": "Matemática",
+    "habilidade": "EF05MA23 - Noções de Probabilidade",
+    "dificuldade": 1,
+    "pergunta": "Ao lançar um dado comum de 6 faces, qual é a classificação para o evento 'sair o número 8'?",
+    "alternativas": ["Impossível", "Pouco provável", "Muito provável", "Certo"],
+    "resposta": "Impossível",
+    "xp": 10
+  },
+  {
+    "id": "port_001",
+    "disciplina": "Português",
+    "habilidade": "EF35LP12 - Classes Gramaticais (Substantivos, Adjetivos, Verbos, Advérbios)",
+    "dificuldade": 1,
+    "pergunta": "Na frase: 'O gato curioso subiu no telhado da casa.', qual palavra é um substantivo comum que nomeia um animal?",
+    "alternativas": ["subiu", "curioso", "gato", "telhado"],
+    "resposta": "gato",
+    "xp": 10
+  },
+  {
+    "id": "port_002",
+    "disciplina": "Português",
+    "habilidade": "EF35LP12 - Classes Gramaticais (Substantivos, Adjetivos, Verbos, Advérbios)",
+    "dificuldade": 1,
+    "pergunta": "Assinale a alternativa em que a palavra destacada é um ADJETIVO que indica uma característica:",
+    "alternativas": [
+      "A menina inteligente resolveu o enigma.",
+      "O menino correu rápido.",
+      "A professora explicou a matéria.",
+      "Os alunos estudaram muito."
+    ],
+    "resposta": "A menina inteligente resolveu o enigma.",
+    "xp": 10
+  },
+  {
+    "id": "port_003",
+    "disciplina": "Português",
+    "habilidade": "EF35LP12 - Classes Gramaticais (Substantivos, Adjetivos, Verbos, Advérbios)",
+    "dificuldade": 1,
+    "pergunta": "Na frase: 'Amanhã os alunos farão um passeio incrível no parque.', qual das palavras indica uma ação no futuro (verbo)?",
+    "alternativas": ["Amanhã", "alunos", "farão", "incrível"],
+    "resposta": "farão",
+    "xp": 15
+  },
+  {
+    "id": "port_004",
+    "disciplina": "Português",
+    "habilidade": "EF35LP12 - Classes Gramaticais (Substantivos, Adjetivos, Verbos, Advérbios)",
+    "dificuldade": 2,
+    "pergunta": "Na frase: 'O pássaro cantava calmamente na árvore.', a palavra 'calmamente' indica:",
+    "alternativas": [
+      "Lugar onde o pássaro estava",
+      "Tempo em que cantava",
+      "Modo como o pássaro cantava",
+      "Intensidade do canto"
+    ],
+    "resposta": "Modo como o pássaro cantava",
+    "xp": 20
+  },
+  {
+    "id": "port_005",
+    "disciplina": "Português",
+    "habilidade": "EF35LP14 - Pronomes",
+    "dificuldade": 2,
+    "pergunta": "Na frase: 'Mariana perdeu sua caneta e ELA ficou muito triste.', a palavra destacada 'ELA' substitui qual palavra para evitar repetição?",
+    "alternativas": ["caneta", "Mariana", "triste", "perdeu"],
+    "resposta": "Mariana",
+    "xp": 20
+  },
+  {
+    "id": "port_006",
+    "disciplina": "Português",
+    "habilidade": "EF35LP14 - Pronomes",
+    "dificuldade": 2,
+    "pergunta": "Na frase 'Carlos comprou um carro novo e ELE viajou no fim de semana.', a palavra 'ELE' é um pronome que substitui:",
+    "alternativas": ["Carro", "Carlos", "Novo", "Fim de semana"],
+    "resposta": "Carlos",
+    "xp": 20
+  },
+  {
+    "id": "port_007",
+    "disciplina": "Português",
+    "habilidade": "EF35LP14 - Pronomes",
+    "dificuldade": 1,
+    "pergunta": "Qual das alternativas abaixo apresenta um pronome possessivo?",
+    "alternativas": [
+      "O gato subiu no muro.",
+      "Meu caderno ficou esquecido na escola.",
+      "Ela comprou pão na padaria.",
+      "Nós fomos ao parque ontem."
+    ],
+    "resposta": "Meu caderno ficou esquecido na escola.",
+    "xp": 15
+  },
+  {
+    "id": "port_008",
+    "disciplina": "Português",
+    "habilidade": "EF35LP14 - Pronomes",
+    "dificuldade": 2,
+    "pergunta": "Na frase 'Nós fomos ao cinema ontem', a palavra 'Nós' classifica-se como:",
+    "alternativas": ["Pronome pessoal do caso reto", "Substantivo próprio", "Verbo de ação", "Adjetivo pátrio"],
+    "resposta": "Pronome pessoal do caso reto",
+    "xp": 20
+  },
+  {
+    "id": "port_009",
+    "disciplina": "Português",
+    "habilidade": "EF35LP05 - Sinônimos e Antônimos",
+    "dificuldade": 1,
+    "pergunta": "Qual é o SINÔNIMO correto da palavra 'veloz' na frase 'O carro veloz venceu a corrida'?",
+    "alternativas": ["Lento", "Rápido", "Grande", "Forte"],
+    "resposta": "Rápido",
+    "xp": 10
+  },
+  {
+    "id": "port_010",
+    "disciplina": "Português",
+    "habilidade": "EF35LP05 - Sinônimos e Antônimos",
+    "dificuldade": 1,
+    "pergunta": "Qual é o ANTÔNIMO da palavra 'corajoso'?",
+    "alternativas": ["Valente", "Forte", "Covarde", "Alegre"],
+    "resposta": "Covarde",
+    "xp": 10
+  },
+  {
+    "id": "port_011",
+    "disciplina": "Português",
+    "habilidade": "EF35LP05 - Sinônimos e Antônimos",
+    "dificuldade": 1,
+    "pergunta": "Qual é o sinônimo da palavra 'alegre'?",
+    "alternativas": ["Triste", "Feliz", "Cansado", "Bravo"],
+    "resposta": "Feliz",
+    "xp": 10
+  },
+  {
+    "id": "port_012",
+    "disciplina": "Português",
+    "habilidade": "EF35LP05 - Sinônimos e Antônimos",
+    "dificuldade": 1,
+    "pergunta": "Qual é o antônimo da palavra 'difícil'?",
+    "alternativas": ["Complicado", "Pesado", "Fácil", "Longo"],
+    "resposta": "Fácil",
+    "xp": 10
+  },
+  {
+    "id": "port_013",
+    "disciplina": "Português",
+    "habilidade": "EF05LP01 - Ortografia (Mas/Mais, Exceção, etc.)",
+    "dificuldade": 2,
+    "pergunta": "Assinale a frase gramaticalmente correta em relação ao uso de 'mais' e 'mas':",
+    "alternativas": [
+      "Estudei muito, mais não passei na prova.",
+      "Quero comer mas chocolate.",
+      "Eu tentei ir ao parque, mas começou a chover.",
+      "Ela é mas alta que o irmão."
+    ],
+    "resposta": "Eu tentei ir ao parque, mas começou a chover.",
+    "xp": 20
+  },
+  {
+    "id": "port_014",
+    "disciplina": "Português",
+    "habilidade": "EF05LP01 - Ortografia (Mas/Mais, Exceção, etc.)",
+    "dificuldade": 2,
+    "pergunta": "Assinale a alternativa em que a palavra está grafada CORRETAMENTE:",
+    "alternativas": ["Exceção", "Escessão", "Exessão", "Essessão"],
+    "resposta": "Exceção",
+    "xp": 20
+  },
+  {
+    "id": "port_015",
+    "disciplina": "Português",
+    "habilidade": "EF05LP01 - Ortografia (Mas/Mais, Exceção, etc.)",
+    "dificuldade": 2,
+    "pergunta": "Complete a frase corretamente: 'Fomos ao mercado, ______ faltou dinheiro para comprar o suco.'",
+    "alternativas": ["mais", "mas", "más", "mal"],
+    "resposta": "mas",
+    "xp": 20
+  },
+  {
+    "id": "port_016",
+    "disciplina": "Português",
+    "habilidade": "EF05LP01 - Ortografia (Mas/Mais, Exceção, etc.)",
+    "dificuldade": 2,
+    "pergunta": "Qual palavra preenche a lacuna: 'Ela estudou bastante, por isso tirou a ______ nota da turma.'",
+    "alternativas": ["maior", "maiorzinha", "melhor", "mais"],
+    "resposta": "maior",
+    "xp": 20
+  },
+  {
+    "id": "port_017",
+    "disciplina": "Português",
+    "habilidade": "EF15LP03 - Interpretação Textual e Significado",
+    "dificuldade": 2,
+    "pergunta": "No trecho: 'A tartaruga devagar e constante venceu a corrida contra o coelho presunçoso.', a palavra 'presunçoso' significa:",
+    "alternativas": ["Humilde", "Orgulhoso e exibido", "Triste", "Rápido"],
+    "resposta": "Orgulhoso e exibido",
+    "xp": 20
+  },
+  {
+    "id": "port_018",
+    "disciplina": "Português",
+    "habilidade": "EF15LP03 - Interpretação Textual e Significado",
+    "dificuldade": 2,
+    "pergunta": "No trecho 'O vento soprava furioso arrancando as folhas das árvores', a palavra 'furioso' indica que o vento era:",
+    "alternativas": ["Calmo e fresco", "Violento e forte", "Fraco e brando", "Quente e seco"],
+    "resposta": "Violento e forte",
+    "xp": 20
+  },
+  {
+    "id": "port_019",
+    "disciplina": "Português",
+    "habilidade": "EF15LP03 - Interpretação Textual e Significado",
+    "dificuldade": 2,
+    "pergunta": "O que significa a expressão popular 'enfiar o pé na jaca'?",
+    "alternativas": [
+      "Machucar o pé ao caminhar no mato",
+      "Agir de forma exagerada ou perder o controle",
+      "Calçar um sapato inadequado",
+      "Praticar esportes radicais"
+    ],
+    "resposta": "Agir de forma exagerada ou perder o controle",
+    "xp": 20
+  },
+  {
+    "id": "port_020",
+    "disciplina": "Português",
+    "habilidade": "EF15LP03 - Interpretação Textual e Significado",
+    "dificuldade": 3,
+    "pergunta": "Leia: 'O garoto ficou com borboletas no estômago antes de apresentar o trabalho.' Essa expressão significa que ele estava:",
+    "alternativas": ["Com fome", "Com dor de barriga", "Nervoso ou ansioso", "Muito calmo"],
+    "resposta": "Nervoso ou ansioso",
+    "xp": 25
+  },
+  {
+    "id": "port_021",
+    "disciplina": "Português",
+    "habilidade": "EF15LP02 - Gêneros Textuais (Fábula)",
+    "dificuldade": 2,
+    "pergunta": "Qual é a principal característica do gênero textual FÁBULA (ex: A Cigarra e a Formiga)?",
+    "alternativas": [
+      "Trazer uma notícia real sobre a cidade.",
+      "Apresentar personagens animais que agem como humanos e uma moral/ensinamento no final.",
+      "Ensinar uma receita passo a passo.",
+      "Vender um produto com imagens atraentes."
+    ],
+    "resposta": "Apresentar personagens animais que agem como humanos e uma moral/ensinamento no final.",
+    "xp": 20
+  },
+  {
+    "id": "port_022",
+    "disciplina": "Português",
+    "habilidade": "EF15LP02 - Gêneros Textuais (Fábula)",
+    "dificuldade": 2,
+    "pergunta": "Qual gênero textual tem como principal objetivo ensinar o passo a passo de como preparar um prato culinário?",
+    "alternativas": ["Fábula", "Receita culinária", "Notícia jornalística", "Poema"],
+    "resposta": "Receita culinária",
+    "xp": 20
+  },
+  {
+    "id": "port_023",
+    "disciplina": "Português",
+    "habilidade": "EF15LP02 - Gêneros Textuais (Fábula)",
+    "dificuldade": 1,
+    "pergunta": "O gênero textual 'Notícia' tem como principal finalidade:",
+    "alternativas": [
+      "Contar uma história de ficção e fantasia",
+      "Informar os leitores sobre um acontecimento real e recente",
+      "Instruir sobre um jogo de tabuleiro",
+      "Emocionar com versos rimados"
+    ],
+    "resposta": "Informar os leitores sobre um acontecimento real e recente",
+    "xp": 15
+  },
+  {
+    "id": "port_024",
+    "disciplina": "Português",
+    "habilidade": "EF15LP02 - Gêneros Textuais (Fábula)",
+    "dificuldade": 1,
+    "pergunta": "Um texto que se organiza em versos, estrofes e que frequentemente apresenta rimas pertence ao gênero:",
+    "alternativas": ["Poema", "Receita", "Cardápio", "Bula de remédio"],
+    "resposta": "Poema",
+    "xp": 15
+  },
+  {
+    "id": "port_025",
+    "disciplina": "Português",
+    "habilidade": "EF15LP04 - Inferência de Sentido (SAEB/SARESP)",
+    "dificuldade": 3,
+    "pergunta": "Leia a frase: 'Quando o apito soou, Pedro engoliu em seco e ajustou os cadarços do tênis.' O que podemos inferir sobre Pedro?",
+    "alternativas": [
+      "Ele estava com fome.",
+      "Ele estava prestes a iniciar uma corrida e sentiu ansiedade ou nervosismo.",
+      "Ele estava dormindo no quarto.",
+      "Ele estava comprando sapatos novos."
+    ],
+    "resposta": "Ele estava prestes a iniciar uma corrida e sentiu ansiedade ou nervosismo.",
+    "xp": 30
+  },
+  {
+    "id": "port_026",
+    "disciplina": "Português",
+    "habilidade": "EF15LP04 - Inferência de Sentido (SAEB/SARESP)",
+    "dificuldade": 2,
+    "pergunta": "Leia: 'Ana olhou para o céu totalmente nublado, fechou o sorriso e pegou rapidamente o guarda-chuva.' O que Ana inferiu?",
+    "alternativas": [
+      "Que faria muito sol e calor",
+      "Que ia chover em breve",
+      "Que esquecera a carteira em casa",
+      "Que o dia estava ótimo para passear no parque"
+    ],
+    "resposta": "Que ia chover em breve",
+    "xp": 20
+  },
+  {
+    "id": "port_027",
+    "disciplina": "Português",
+    "habilidade": "EF15LP04 - Inferência de Sentido (SAEB/SARESP)",
+    "dificuldade": 2,
+    "pergunta": "Leia: 'O cachorro abanava o rabo vigorosamente e gemia baixinho ao ver o dono na porta.' Podemos inferir que o cão estava:",
+    "alternativas": ["Contente e animado", "Assustado e bravo", "Doente e fraco", "Com muito sono"],
+    "resposta": "Contente e animado",
+    "xp": 20
+  },
+  {
+    "id": "port_028",
+    "disciplina": "Português",
+    "habilidade": "EF15LP04 - Inferência de Sentido (SAEB/SARESP)",
+    "dificuldade": 3,
+    "pergunta": "Leia: 'Lucas cruzou os braços, virou o rosto e fechou a cara após ouvir o comentário.' Podemos deduzir que Lucas ficou:",
+    "alternativas": ["Muito feliz", "Chateado ou irritado", "Distraído", "Surpreso positivamente"],
+    "resposta": "Chateado ou irritado",
+    "xp": 25
+  },
+  {
+    "id": "port_029",
+    "disciplina": "Português",
+    "habilidade": "EF05LP04 - Pontuação e Expressividade",
+    "dificuldade": 2,
+    "pergunta": "Qual sinal de pontuação deve ser utilizado para indicar uma pergunta em: 'Que horas a nave espacial vai decolar'",
+    "alternativas": [
+      "Ponto final (.)",
+      "Ponto de exclamação (!)",
+      "Ponto de interrogação (?)",
+      "Reticências (...)"
+    ],
+    "resposta": "Ponto de interrogação (?)",
+    "xp": 15
+  },
+  {
+    "id": "port_030",
+    "disciplina": "Português",
+    "habilidade": "EF05LP04 - Pontuação e Expressividade",
+    "dificuldade": 2,
+    "pergunta": "Qual sinal de pontuação é usado para indicar uma pausa na leitura ou isolar explicações, como em 'Minha tia, que mora em Santos, chegou'?",
+    "alternativas": ["Vírgula (,)", "Ponto e vírgula (;)", "Dois-pontos (:)", "Travessão (-)"],
+    "resposta": "Vírgula (,)",
+    "xp": 20
+  },
+  {
+    "id": "port_031",
+    "disciplina": "Português",
+    "habilidade": "EF05LP04 - Pontuação e Expressividade",
+    "dificuldade": 1,
+    "pergunta": "Qual sinal de pontuação é utilizado no final de frases para expressar surpresa, medo ou admiração?",
+    "alternativas": ["Ponto final (.)", "Ponto de exclamação (!)", "Ponto de interrogação (?)", "Vírgula (,)"],
+    "resposta": "Ponto de exclamação (!)",
+    "xp": 10
+  },
+  {
+    "id": "port_032",
+    "disciplina": "Português",
+    "habilidade": "EF05LP04 - Pontuação e Expressividade",
+    "dificuldade": 2,
+    "pergunta": "Qual sinal indica que o pensamento foi interrompido ou que há continuidade na frase?",
+    "alternativas": ["Reticências (...)", "Aspas ('')", "Parênteses ()", "Ponto final (.)"],
+    "resposta": "Reticências (...)",
+    "xp": 20
+  },
+  {
+    "id": "port_033",
+    "disciplina": "Português",
+    "habilidade": "EF04LP04 - Tonicidade e Acentuação",
+    "dificuldade": 1,
+    "pergunta": "Qual é a sílaba tônica (a mais forte) na palavra 'CAFÉ'?",
+    "alternativas": ["CA", "FÉ", "CF", "Á"],
+    "resposta": "FÉ",
+    "xp": 10
+  },
+  {
+    "id": "port_034",
+    "disciplina": "Português",
+    "habilidade": "EF04LP04 - Tonicidade e Acentuação",
+    "dificuldade": 1,
+    "pergunta": "A palavra 'JACARÉ' tem a última sílaba forte. Como ela é classificada quanto à tonicidade?",
+    "alternativas": ["Oxítona", "Paroxítona", "Proparoxítona", "Monossílaba"],
+    "resposta": "Oxítona",
+    "xp": 15
+  },
+  {
+    "id": "port_035",
+    "disciplina": "Português",
+    "habilidade": "EF04LP04 - Tonicidade e Acentuação",
+    "dificuldade": 2,
+    "pergunta": "Assinale a alternativa em que TODAS as palavras são PAROXÍTONAS (penúltima sílaba forte):",
+    "alternativas": [
+      "Café, Saci, Funil",
+      "Escola, Caneta, Menino",
+      "Música, Médico, Lâmpada",
+      "Caju, Ananás, Cipó"
+    ],
+    "resposta": "Escola, Caneta, Menino",
+    "xp": 20
+  },
+  {
+    "id": "port_036",
+    "disciplina": "Português",
+    "habilidade": "EF04LP04 - Tonicidade e Acentuação",
+    "dificuldade": 2,
+    "pergunta": "Qual é a regra geral de acentuação para as palavras PROPAROXÍTONAS (como 'médico', 'árvore' e 'ônibus')?",
+    "alternativas": [
+      "Nenhuma palavra proparoxítona recebe acento.",
+      "Apenas as palavras terminadas em R recebem acento.",
+      "Todas as palavras proparoxítonas são acentuadas.",
+      "Apenas as palavras que começam com vogal recebem acento."
+    ],
+    "resposta": "Todas as palavras proparoxítonas são acentuadas.",
+    "xp": 20
+  }
+]
