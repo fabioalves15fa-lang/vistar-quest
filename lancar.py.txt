@@ -1,0 +1,29 @@
+import streamlit.web.cli as stcli
+import sys
+import os
+
+if __name__ == "__main__":
+    try:
+        # Garante que o diretório de trabalho é exatamente onde o .exe está localizado
+        if getattr(sys, 'frozen', False):
+            os.chdir(os.path.dirname(sys.executable))
+
+        # Aponta para o arquivo principal do seu app na mesma pasta
+        sys.argv = [
+            "streamlit",
+            "run",
+            "app.py",
+            "--global.developmentMode=false",
+        ]
+        stcli.main()
+        
+    except SystemExit as e:
+        print(f"\n⚠️ O Streamlit encerrou com o código de saída: {e.code}")
+    except BaseException as e:
+        print("\n========================================")
+        print("❌ OCORREU UM ERRO CRÍTICO NO APLICATIVO:")
+        print(e)
+        print("========================================")
+    
+    # Mantém a janela preta aberta até você pressionar ENTER
+    input("\nPressione ENTER para fechar esta janela...")

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "item_lugar",
+    "nome": "Trocar de Lugar por 1 Dia",
+    "descricao": "Escolha em qual carteira sentar na aula de amanhã.",
+    "custo_moedas": 50,
+    "icone": "🪑"
+  },
+  {
+    "id": "item_banheiro",
+    "nome": "Passe VIP do Banheiro",
+    "descricao": "Direito a 1 ida extra ao banheiro no dia.",
+    "custo_moedas": 30,
+    "icone": "🚪"
+  },
+  {
+    "id": "item_musica",
+    "nome": "DJ do Final do Dia",
+    "descricao": "Escolha a música que vai tocar no encerramento da aula.",
+    "custo_moedas": 40,
+    "icone": "🎵"
+  },
+  {
+    "id": "item_ajudante",
+    "nome": "Ajudante do Dia",
+    "descricao": "Ser o assistente oficial do professor na rotina da sala.",
+    "custo_moedas": 60,
+    "icone": "⭐"
+  }
+]
